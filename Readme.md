@@ -30,7 +30,7 @@ must have the following columns, with no specific order (more columns can be add
 | Mass          | Exact (monoisotopic) mass column |
 
 Molecular formulas can be assigned to a high-resolution mass spectrometry feature by using software such as Formularity 
-(Nikola et al., 2017 in Analytical Chemistry, DOI: 10.1021/acs.analchem.7b03318)
+(N.Tolic et al., 2017 in Analytical Chemistry, DOI: 10.1021/acs.analchem.7b03318)
 
 ## Example Input Data
 
@@ -71,7 +71,7 @@ The only information that has to be inserted in the R code is the directory path
 
 ## Contacts
 
-Written by Nikola Tolić for the Department of Energy (PNNL, Richland, WA) \
+Written by Albert Rivas Ubach for the Department of Energy (PNNL, Richland, WA) \
 E-mail: proteomics@pnnl.gov \
 Website: https://omics.pnl.gov/ or https://panomics.pnnl.gov/
 
